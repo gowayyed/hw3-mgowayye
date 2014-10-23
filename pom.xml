@@ -4,7 +4,7 @@
 	<groupId>edu.cmu.lti.11791.f14.hw3
 </groupId>
 	<artifactId>hw3-mgowayye</artifactId>
-	<version>0.0.3</version>
+	<version>1.0.0</version>
 	<scm>
 		<connection>scm:git:git@github.com:gowayyed/hw3-mgowayye.git</connection>
 		<developerConnection>scm:git:git@github.com:gowayyed/hw3-mgowayye.git</developerConnection>
